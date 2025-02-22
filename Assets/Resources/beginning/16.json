@@ -1,0 +1,22 @@
+{
+    "text_id": 16,
+    "year": 1849,
+    "text": "战后，由于谢云的卓越表现，他被视为民族英雄。皇帝不仅授予他司令的头衔，还将自己的一位女儿许配给他。你也因战功被安排到……",
+    "options": [
+        {
+            "text": "1. 经济部门。",
+            "action": ["Nation_Money_Add"],
+            "next_text": 17
+        },
+        {
+            "text": "2. 军事部门。",
+            "action": ["Order_Add"],
+            "next_text": 17
+        },
+        {
+            "text": "3. 外交部门。",
+            "action": ["aebewg_Good_Add"],
+            "next_text": 17
+        }
+    ]
+}

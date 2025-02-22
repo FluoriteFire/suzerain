@@ -1,0 +1,44 @@
+{
+    "text_id": 3,
+    "chats": [
+        {
+            "name": "os",
+            "text": "我点了点头，往前踏出一步。\n底下的人群看起来对我的演讲充满好奇。"
+        }
+    ],
+    "options": [
+        {
+            "text": "亲爱的珂洛人民",
+            "chats": [
+                {
+                    "name": "我",
+                    "text": "亲爱的珂洛人民"
+                }
+            ],
+            "action": [],
+            "next_text": 4
+        },
+        {
+            "text": "我的子民们",
+            "chats": [
+                {
+                    "name": "我",
+                    "text": "我的子民们"
+                }
+            ],
+            "action": [],
+            "next_text": 4
+        },
+        {
+            "text": "我的弟兄们",
+            "chats": [
+                {
+                    "name": "我",
+                    "text": "我的弟兄们"
+                }
+            ],
+            "action": [],
+            "next_text": 4
+        }
+    ]
+}

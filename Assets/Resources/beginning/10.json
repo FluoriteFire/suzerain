@@ -1,0 +1,31 @@
+{
+    "text_id": 10,
+    "year": 1848,
+    "text": "祸不单行，瘟疫对珂洛国的影响尚未结束，一场针对珂洛国的战争就打响了，以瓦罗兰亚帝国为首的四国军队很快就占领了帝国境内大部分地区，朝廷命令无论男女老少，都必须服兵役。你决定？",
+    "options": [
+        {
+            "text": "1. 怀着不安的心情入伍。",
+            "action": [
+                "Sheep_Good_Add",
+                "Bird_Good_Add",
+                "Lion_Good_Add"
+            ],
+            "next_text": 11
+        },
+        {
+            "text": "2. 怀着必胜的决心入伍。",
+            "action": [
+                "Sheep_Good_Add",
+                "Bird_Good_Add",
+                "Lion_Good_Add",
+                "Lion_Good_Add"
+            ],
+            "next_text": 11
+        },
+        {
+            "text": "3. 选择逃跑。",
+            "action": [],
+            "next_text": 12
+        }
+    ]
+}

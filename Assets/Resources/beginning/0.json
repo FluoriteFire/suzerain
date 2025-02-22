@@ -1,0 +1,31 @@
+{
+    "text_id": 0,
+    "year": 1832,
+    "text": "伴随着第一声啼哭，你来到了这个世界。\n\n你来自珂洛国首都的……",
+    "options": [
+        {
+            "text": "1. 一个农民家庭",
+            "action": [
+                "Sheep_Good_Add",
+                "Sheep_Good_Add"
+            ],
+            "next_text": 1
+        },
+        {
+            "text": "2. 一个普通商人家庭",
+            "action": [
+                "Bird_Good_Add",
+                "Bird_Good_Add"
+            ],
+            "next_text": 2
+        },
+        {
+            "text": "3. 一个军人家庭",
+            "action": [
+                "Lion_Good_Add",
+                "Order_Add"
+            ],
+            "next_text": 3
+        }
+    ]
+}

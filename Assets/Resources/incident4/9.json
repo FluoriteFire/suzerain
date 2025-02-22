@@ -1,0 +1,17 @@
+{
+    "text_id": 9,
+    "chats": [],
+    "options": [
+        {
+            "text": "数英雄人物，还看今朝！",
+            "chats": [
+                {
+                    "name": "我",
+                    "text": "数英雄人物，还看今朝！"
+                }
+            ],
+            "action": [],
+            "next_text": 10
+        }
+    ]
+}
